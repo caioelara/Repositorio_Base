@@ -1,0 +1,3 @@
+ana, 8.5
+bruno, 7.0
+carla, 9.2
